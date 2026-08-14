@@ -15,17 +15,20 @@
   Just real problems, real solutions, and real projects.
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 WHAT WE BUILD
 
-💻 Web Applications
-📱 Mobile Applications
-☁️ Cloud & Deployment
-🤖 AI / ML Projects
-🧠 RAG & Agentic AI
+---
+
+## 🚀 WHAT WE BUILD
+
+💻 Web Applications &nbsp;  
+📱 Mobile Applications &nbsp;  
+☁️ Cloud & Deployment &nbsp;  
+🤖 AI / ML Projects &nbsp;  
+🧠 RAG & Agentic AI &nbsp;  
 ⚙️ Real-World Solutions
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌐 CONNECT WITH VOTAX
+---
+
+## 🌐 CONNECT WITH VOTAX
 
 [Instagram](https://www.instagram.com/votax.official?igsh=aWg5Ympmdm11N2di) |[YouTube](https://www.youtube.com/channel/UC5bDbVt3qBB7eGLtTFST5sQ) | [Contact Us](votax.organization@gmail.com)

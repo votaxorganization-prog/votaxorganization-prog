@@ -1,18 +1,21 @@
+<h6 align="center">VOTAX</h6>
 <p align="center">
   <img width="220" height="220" alt="VOTAX Logo" src="https://github.com/user-attachments/assets/16472cd4-9182-4eb0-b9b9-7b0fdd690cf2" />
-</p> VOTAX
-BUILD | SOLVE | IMPACT
+</p>
 
+<h3 align="center">VOTAX BUILD | SOLVE | IMPACT</h3>
+
+<p align="center">
 <img width="1672" height="941" alt="67be0d6d-d8c3-412f-833a-b4307865d5be" src="https://github.com/user-attachments/assets/c5be2bb4-5db5-49d2-9542-6957727f066f" />
+</p>
 
-
-
-We build real-world projects from scratch.
-No boring tutorials. No copy-paste coding.
-Just real problems, real solutions, and real projects.
+<p align="center">
+  We build real-world projects from scratch.<br>
+  No boring tutorials. No copy-paste coding.<br>
+  Just real problems, real solutions, and real projects.
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 🚀 WHAT WE BUILD
 
 💻 Web Applications
@@ -25,4 +28,4 @@ Just real problems, real solutions, and real projects.
 
 🌐 CONNECT WITH VOTAX
 
-[Instagram](https://www.instagram.com/votax.official?igsh=aWg5Ympmdm11N2di) | [YouTube](https://www.youtube.com/channel/UC5bDbVt3qBB7eGLtTFST5sQ) | votax.organization@gmail.com 
+[Instagram](https://www.instagram.com/votax.official?igsh=aWg5Ympmdm11N2di) |[YouTube](https://www.youtube.com/channel/UC5bDbVt3qBB7eGLtTFST5sQ) | [Contact Us](votax.organization@gmail.com)

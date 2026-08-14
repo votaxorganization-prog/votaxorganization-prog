@@ -1,4 +1,4 @@
-<h6 align="center">VOTAX</h6>
+<h1 align="center"><b>VOTAX</b></h1>
 <p align="center">
   <img width="220" height="220" alt="VOTAX Logo" src="https://github.com/user-attachments/assets/16472cd4-9182-4eb0-b9b9-7b0fdd690cf2" />
 </p>

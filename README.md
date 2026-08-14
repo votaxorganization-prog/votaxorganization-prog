@@ -1,4 +1,6 @@
-<img width="1254" height="1254" alt="WhatsApp Image 2026-08-14 at 4 12 50 PM" src="https://github.com/user-attachments/assets/16472cd4-9182-4eb0-b9b9-7b0fdd690cf2" /> VOTAX
+<p align="center">
+  <img width="220" height="220" alt="VOTAX Logo" src="https://github.com/user-attachments/assets/16472cd4-9182-4eb0-b9b9-7b0fdd690cf2" />
+</p> VOTAX
 BUILD | SOLVE | IMPACT
 
 <img width="1672" height="941" alt="67be0d6d-d8c3-412f-833a-b4307865d5be" src="https://github.com/user-attachments/assets/c5be2bb4-5db5-49d2-9542-6957727f066f" />
